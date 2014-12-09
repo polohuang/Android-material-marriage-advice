@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_awesome_color">#FFCDD2</color>
+    <color name="my_awesome_darker_color">#B71C1C</color>
+    <color name="accent">#FFF9C4</color>
+</resources>
